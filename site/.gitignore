@@ -1,5 +1,5 @@
 # Kobweb ignores
 .kobweb/*
 !.kobweb/conf.yaml
-#added site ignore
+#added site ignore, revised
 !.kobweb/site
