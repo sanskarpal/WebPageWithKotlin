@@ -6,7 +6,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "portfoliowebpage"
+rootProject.name = "PortfolioWebpage"
 
 include(":site")
 
